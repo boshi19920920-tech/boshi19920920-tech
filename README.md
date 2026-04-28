@@ -90,7 +90,7 @@ I enjoy solving real world problems using rigorous statistical methods and repro
 ---
 
 ## 📄 Documents  
-- [Resume (Industry)](https://boshi19920920-tech.github.io/Boshi%20Zhao%20Resume.pdf)  
+- [Resume (Industry)](https://boshi19920920-tech.github.io/Boshi_Zhao_Resume_Data_Scientist.pdf)  
 - [Academic CV](https://boshi19920920-tech.github.io/Boshi_Zhao_CV.pdf)  
 - [Personal Website](https://boshi19920920-tech.github.io/Boshi-Zhao.github.io/)  
 
