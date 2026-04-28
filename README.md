@@ -2,12 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=boshi19920920-tech&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a statistician and data scientist specializing in **Bayesian modeling**,  
-**functional data analysis**, and **health data analytics**.  
-Currently, I am completing my PhD in Statistics at **Northern Illinois University**,  
-where my research focuses on multivariate longitudinal data and Bayesian functional factor models.
+I am a statistician and data scientist with expertise in statistical modeling, machine learning, Bayesian methods, and health data analytics. I recently completed my PhD in Mathematical Sciences with a Statistics focus at Northern Illinois University, where my research focused on multivariate longitudinal data and Bayesian functional factor models.
 
-I enjoy solving real world problems using rigorous statistical methods and reproducible analysis workflows.
+My work combines rigorous statistical methods, reproducible data science workflows, and clear communication to solve real-world problems across healthcare, public health, business analytics, and applied research.
 
 ---
 
