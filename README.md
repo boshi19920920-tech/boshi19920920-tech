@@ -89,7 +89,6 @@ My work combines rigorous statistical methods, reproducible data science workflo
 ## 📄 Documents  
 - [Resume (Industry)](https://boshi19920920-tech.github.io/Boshi_Zhao_Resume_Data_Scientist.pdf)  
 - [Academic CV](https://github.com/boshi19920920-tech/Boshi-Zhao.github.io/blob/main/Boshi_Zhao_CV.pdf)  
-- [Personal Website](https://boshi19920920-tech.github.io/Boshi-Zhao.github.io/)  
 
 ---
 
