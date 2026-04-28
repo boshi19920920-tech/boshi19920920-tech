@@ -36,20 +36,26 @@ I enjoy solving real world problems using rigorous statistical methods and repro
 ---
 
 ## 📚 Selected Projects
-Here are some projects I work on or will publish soon (more to come):
 
-- **Bayesian Functional Factor Analysis**  
-  Eigenfunction estimation, smoothing priors, and temporal factor modeling.
+### End to End Machine Learning Pipeline
 
-- **Social Determinants of Health**  
-  Statistical modeling using national health datasets to understand PHCD, waist circumference, pain outcomes, and disparities.
+A reproducible supervised machine learning project for diabetes prediction using Python. This project demonstrates the full data science workflow, including data cleaning, exploratory data analysis, feature engineering, train/test split, preprocessing, logistic regression, random forest, XGBoost, cross-validation, model evaluation, calibration, feature importance, SHAP interpretation, and visualization.
 
-- **Consulting and Applied Statistics**  
-  Experience in medical, educational, transportation, and public health projects.  
-  Responsibilities include data cleaning, modeling, reproducible workflows, and report writing.
+Repository: [end-to-end-machine-learning-pipeline](https://github.com/boshi19920920-tech/end-to-end-machine-learning-pipeline)
 
-I will gradually add open source code examples and reproducible demos here.
+### Bayesian Functional Time Series
 
+Bayesian modeling for extracting latent signals from high dimensional time series data. This project connects Bayesian factor models, functional data analysis, smoothing, and temporal latent structure interpretation.
+
+Repository: [bayesian-functional-time-series](https://github.com/boshi19920920-tech/bayesian-functional-time-series)
+
+### Social Determinants of Health Analytics
+
+Statistical modeling using large scale health data to study pain outcomes, perceived healthcare discrimination, prescription drug use patterns, and health disparities. Methods include data cleaning, regression modeling, negative binomial models, subgroup analysis, reproducible reporting, and communication of findings to both technical and nontechnical audiences.
+
+### Consulting and Applied Statistics
+
+Applied statistical consulting experience across medical, educational, transportation, and public health projects. Responsibilities include client communication, data management, statistical modeling, visualization, report writing, and translating technical results for nontechnical audiences.
 ---
 
 ## 📊 GitHub Stats
