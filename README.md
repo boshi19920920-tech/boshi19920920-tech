@@ -22,9 +22,70 @@ I enjoy solving real world problems using rigorous statistical methods and repro
 ---
 
 ## 🛠 Skills
-- **Programming:** R, Python, SQL, SAS  
-- **Methods:** Bayesian MCMC, hierarchical models, PCA/FA, survey statistics  
-- **Tools:** Git, GitHub, R Markdown, tidyverse, high performance computing  
+### Programming and Data Tools
+
+* Python
+* R
+* SQL
+* SAS
+* SPSS
+* Git and GitHub
+* Jupyter Notebook
+* R Markdown
+* LaTeX
+
+### Data Analysis and Visualization
+
+* Data cleaning
+* Data wrangling
+* Exploratory data analysis
+* Feature engineering
+* Reproducible reporting
+* Statistical visualization
+* Tableau
+* Power BI
+* matplotlib
+* ggplot2
+
+### Statistical Modeling
+
+* Linear regression
+* Logistic regression
+* Poisson regression
+* Negative binomial regression
+* Mixed models
+* Survival analysis
+* Longitudinal data analysis
+* Multivariate analysis
+* Bayesian modeling
+* Principal component analysis
+* Factor analysis
+
+### Machine Learning
+
+* Train and test split
+* Cross validation
+* Classification model evaluation
+* Logistic regression
+* Random forest
+* XGBoost
+* AUC
+* Accuracy
+* Precision
+* Recall
+* Calibration
+* Feature importance
+* SHAP interpretation
+
+### Applied Areas
+
+* Health data analytics
+* Public health research
+* Social determinants of health
+* Biostatistics
+* Statistical consulting
+* Business analytics
+* Predictive modeling 
 
 ---
 
